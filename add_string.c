@@ -7,7 +7,7 @@ int i,tc;
 scanf("%d",&tc);
 for(i=1;i<=tc;i++)
 {
-char str[100000];
+char str[10000];
 int lenStr,j;
 int sum=0;
 scanf("%s",str);
