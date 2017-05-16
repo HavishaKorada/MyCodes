@@ -11,6 +11,5 @@ int main()
         else if(S[i]>='A'&&S[i]<='Z')
         printf("%c",S[i]+32);
     }
-    
     return 0;
 }
