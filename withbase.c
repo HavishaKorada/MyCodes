@@ -32,5 +32,5 @@ int base(int k,int n){
                 nsum=nsum+r;
                 n=n/j;
             }
-			return nsum;
+	return nsum;
 }
